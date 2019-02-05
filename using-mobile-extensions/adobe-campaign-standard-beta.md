@@ -46,9 +46,8 @@ Trying to find your MCIAS endpoint URL? Contact your beta manager.
 
 Provide your in-app messaging service URL endpoint. The SDK retrieves all in-app messaging rules and definition payloads from this endpoint.
 
-{% hint style="warning" %}
 {% hint style="warning" %} For this extension, the MCIAS endpoint URL should be typed in without the http:// or https:// and cannot end with a forward slash. {% endhint %}
-{% endhint %}
+
 
 #### Request Timeout
 
